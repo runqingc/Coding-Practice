@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "optimal_storage",
+					"name" : "424__Longest_Repeating_Character_Replacement_",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "optimal_storage::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-optimal_storage-Debug-ffcd83d2eef7520a599f.json",
-					"name" : "optimal_storage",
+					"id" : "424__Longest_Repeating_Character_Replacement_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-424__Longest_Repeating_Character_Replacement_-Debug-06d06f6f245e993d06b9.json",
+					"name" : "424__Longest_Repeating_Character_Replacement_",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/optimal_storage/cmake-build-debug",
-		"source" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/optimal_storage"
+		"build" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/424. Longest Repeating Character Replacement /cmake-build-debug",
+		"source" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/424. Longest Repeating Character Replacement "
 	},
 	"version" : 
 	{

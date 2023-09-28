@@ -2,42 +2,6 @@
 	"entries" : 
 	[
 		{
-			"name" : "424__Longest_Repeating_Character_Replacement__BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/424. Longest Repeating Character Replacement /cmake-build-debug"
-		},
-		{
-			"name" : "424__Longest_Repeating_Character_Replacement__IS_TOP_LEVEL",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "ON"
-		},
-		{
-			"name" : "424__Longest_Repeating_Character_Replacement__SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/424. Longest Repeating Character Replacement "
-		},
-		{
 			"name" : "CMAKE_ADDR2LINE",
 			"properties" : 
 			[
@@ -91,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/424. Longest Repeating Character Replacement /cmake-build-debug"
+			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/optimal_storage/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -515,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/424. Longest Repeating Character Replacement /cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/optimal_storage/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -575,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/424. Longest Repeating Character Replacement "
+			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/optimal_storage"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -855,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "424__Longest_Repeating_Character_Replacement_"
+			"value" : "optimal_storage"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1136,6 +1100,42 @@
 			],
 			"type" : "BOOL",
 			"value" : "FALSE"
+		},
+		{
+			"name" : "optimal_storage_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/optimal_storage/cmake-build-debug"
+		},
+		{
+			"name" : "optimal_storage_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "optimal_storage_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/optimal_storage"
 		}
 	],
 	"kind" : "cache",
