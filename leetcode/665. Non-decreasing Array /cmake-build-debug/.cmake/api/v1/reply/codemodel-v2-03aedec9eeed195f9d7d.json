@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "665__Non_decreasing_Array_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "665__Non_decreasing_Array_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-665__Non_decreasing_Array_-Debug-ecfe465c44b0c6df1c31.json",
+					"name" : "665__Non_decreasing_Array_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/665. Non-decreasing Array /cmake-build-debug",
+		"source" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/665. Non-decreasing Array "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,11 @@
+# ninja log v5
+0	702	1691895471343618728	CMakeFiles/300__Longest_Increasing_Subsequence_.dir/main.cpp.o	df98a9c1e239e7ad
+704	776	1691895471423035133	300__Longest_Increasing_Subsequence_	46beae85adb2aef9
+2	645	1691897971846384358	CMakeFiles/300__Longest_Increasing_Subsequence_.dir/main.cpp.o	df98a9c1e239e7ad
+645	714	1691897971919306204	300__Longest_Increasing_Subsequence_	46beae85adb2aef9
+2	774	1692064302772316312	CMakeFiles/300__Longest_Increasing_Subsequence_.dir/main.cpp.o	df98a9c1e239e7ad
+774	859	1692064302862245824	300__Longest_Increasing_Subsequence_	46beae85adb2aef9
+2	614	1692064336795224733	CMakeFiles/300__Longest_Increasing_Subsequence_.dir/main.cpp.o	df98a9c1e239e7ad
+614	681	1692064336866939526	300__Longest_Increasing_Subsequence_	46beae85adb2aef9
+2	430	1692064361299469788	CMakeFiles/300__Longest_Increasing_Subsequence_.dir/main.cpp.o	df98a9c1e239e7ad
+430	485	1692064361357458563	300__Longest_Increasing_Subsequence_	46beae85adb2aef9

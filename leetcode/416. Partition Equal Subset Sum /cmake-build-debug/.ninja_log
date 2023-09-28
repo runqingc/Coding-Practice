@@ -1,0 +1,17 @@
+# ninja log v5
+0	674	1692068011341352885	CMakeFiles/416__Partition_Equal_Subset_Sum_.dir/main.cpp.o	765d0fb2f9ae27ef
+675	762	1692068011433673817	416__Partition_Equal_Subset_Sum_	11f46739cc5b1cdc
+3	596	1692068147667379954	CMakeFiles/416__Partition_Equal_Subset_Sum_.dir/main.cpp.o	765d0fb2f9ae27ef
+596	662	1692068147737811446	416__Partition_Equal_Subset_Sum_	11f46739cc5b1cdc
+2	611	1692068385635058944	CMakeFiles/416__Partition_Equal_Subset_Sum_.dir/main.cpp.o	765d0fb2f9ae27ef
+611	676	1692068385704881435	416__Partition_Equal_Subset_Sum_	11f46739cc5b1cdc
+3	791	1692235621650670913	CMakeFiles/416__Partition_Equal_Subset_Sum_.dir/main.cpp.o	765d0fb2f9ae27ef
+791	932	1692235621796899519	416__Partition_Equal_Subset_Sum_	11f46739cc5b1cdc
+2	623	1692235869101116486	CMakeFiles/416__Partition_Equal_Subset_Sum_.dir/main.cpp.o	765d0fb2f9ae27ef
+623	690	1692235869172398332	416__Partition_Equal_Subset_Sum_	11f46739cc5b1cdc
+2	605	1692235932466046455	CMakeFiles/416__Partition_Equal_Subset_Sum_.dir/main.cpp.o	765d0fb2f9ae27ef
+605	674	1692235932539270173	416__Partition_Equal_Subset_Sum_	11f46739cc5b1cdc
+2	448	1692236026566660615	CMakeFiles/416__Partition_Equal_Subset_Sum_.dir/main.cpp.o	765d0fb2f9ae27ef
+449	503	1692236026626133189	416__Partition_Equal_Subset_Sum_	11f46739cc5b1cdc
+3	608	1692236205172901336	CMakeFiles/416__Partition_Equal_Subset_Sum_.dir/main.cpp.o	765d0fb2f9ae27ef
+608	678	1692236205247515594	416__Partition_Equal_Subset_Sum_	11f46739cc5b1cdc

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(2511__Maximum_Enemy_Forts_That_Can_Be_Captured_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(2511__Maximum_Enemy_Forts_That_Can_Be_Captured_ main.cpp)

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "309__Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "309__Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-309__Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_-Debug-3b2f03938c87e698b9b7.json",
+					"name" : "309__Best_Time_to_Buy_and_Sell_Stock_with_Cooldown_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/309. Best Time to Buy and Sell Stock with Cooldown /cmake-build-debug",
+		"source" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/\u5237\u9898/309. Best Time to Buy and Sell Stock with Cooldown "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(524__Longest_Word_in_Dictionary_through_Deleting)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(524__Longest_Word_in_Dictionary_through_Deleting main.cpp)

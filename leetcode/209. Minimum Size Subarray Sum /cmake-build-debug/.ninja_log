@@ -1,0 +1,25 @@
+# ninja log v5
+0	650	1693781524566927950	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+652	724	1693781524645777105	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+3	560	1693781560002422306	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+560	630	1693781560075945785	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+2	634	1693781660925674117	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+634	707	1693781661002193662	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+2	577	1693781774848510701	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+577	643	1693781774918908907	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+2	589	1693781877045659473	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+589	656	1693781877117625587	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+2	675	1693782045686032389	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+675	745	1693782045760627528	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+3	656	1693782587540374614	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+656	727	1693782587615407869	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+3	593	1693782655523924235	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+594	660	1693782655594807649	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+3	598	1693782690125552050	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+598	663	1693782690194868764	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+6	694	1693839472508728798	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+694	773	1693839472593535566	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+2	583	1693839514942720186	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+583	650	1693839515014964982	209__Minimum_Size_Subarray_Sum_	9378809182a677cb
+2	433	1693839520374796829	CMakeFiles/209__Minimum_Size_Subarray_Sum_.dir/main.cpp.o	8852866d68ecc458
+433	491	1693839520436333565	209__Minimum_Size_Subarray_Sum_	9378809182a677cb

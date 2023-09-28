@@ -1,0 +1,9 @@
+# ninja log v5
+0	634	1689045722996022593	CMakeFiles/633__Sum_of_Square_Numbers.dir/main.cpp.o	e1ce514705b86f7
+635	707	1689045723073916625	633__Sum_of_Square_Numbers	5b89793141f175cb
+3	581	1689045735199068511	CMakeFiles/633__Sum_of_Square_Numbers.dir/main.cpp.o	e1ce514705b86f7
+582	651	1689045735273343019	633__Sum_of_Square_Numbers	5b89793141f175cb
+3	427	1689045741356895825	CMakeFiles/633__Sum_of_Square_Numbers.dir/main.cpp.o	e1ce514705b86f7
+427	484	1689045741417235850	633__Sum_of_Square_Numbers	5b89793141f175cb
+3	587	1689045937660141927	CMakeFiles/633__Sum_of_Square_Numbers.dir/main.cpp.o	e1ce514705b86f7
+587	658	1689045937734888805	633__Sum_of_Square_Numbers	5b89793141f175cb

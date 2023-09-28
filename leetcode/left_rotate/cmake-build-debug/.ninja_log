@@ -1,0 +1,9 @@
+# ninja log v5
+1	657	1694270280967829933	CMakeFiles/left_rotate.dir/main.cpp.o	c23c05c3bcaa65de
+659	730	1694270281044104146	left_rotate	3f4e6e7b0fc66da8
+3	406	1694270341999492951	CMakeFiles/left_rotate.dir/main.cpp.o	c23c05c3bcaa65de
+406	464	1694270342060472354	left_rotate	3f4e6e7b0fc66da8
+2	393	1694270367569965756	CMakeFiles/left_rotate.dir/main.cpp.o	c23c05c3bcaa65de
+393	453	1694270367630570822	left_rotate	3f4e6e7b0fc66da8
+2	385	1694270397345080570	CMakeFiles/left_rotate.dir/main.cpp.o	c23c05c3bcaa65de
+385	440	1694270397402837735	left_rotate	3f4e6e7b0fc66da8

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(1005__Maximize_Sum_Of_Array_After_K_Negations_)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(1005__Maximize_Sum_Of_Array_After_K_Negations_ main.cpp)

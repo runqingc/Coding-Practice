@@ -1,0 +1,25 @@
+# ninja log v5
+0	707	1694783952727116266	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+709	795	1694783952819358872	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+2	582	1694784010108994732	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+582	654	1694784010184709328	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+2	573	1694784157620748504	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+573	641	1694784157693709127	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+2	663	1694784503430591170	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+663	736	1694784503507309522	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+8	659	1694786010356083566	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+659	733	1694786010434494199	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+3	635	1694786628975227615	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+635	708	1694786629052952244	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+3	580	1694786765566895036	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+581	650	1694786765641034847	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+3	660	1694786820175445314	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+660	733	1694786820252822232	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+2	611	1694786849814230094	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+611	677	1694786849884594545	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+3	643	1694787251008055486	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+643	717	1694787251086354321	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+2	660	1694787351146022713	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+660	733	1694787351223319768	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae
+3	670	1694787823118765626	CMakeFiles/669__Trim_a_Binary_Search_Tree_.dir/main.cpp.o	7f59b5441071954c
+670	744	1694787823197830734	669__Trim_a_Binary_Search_Tree_	5928b55576ee44ae

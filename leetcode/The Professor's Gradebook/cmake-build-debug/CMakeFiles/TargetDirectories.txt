@@ -1,0 +1,3 @@
+/Users/cairunqing/Practice/2023夏实习/刷题/The Professor's Gradebook/cmake-build-debug/CMakeFiles/The_Professor_s_Gradebook.dir
+/Users/cairunqing/Practice/2023夏实习/刷题/The Professor's Gradebook/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cairunqing/Practice/2023夏实习/刷题/The Professor's Gradebook/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/cairunqing/Practice/2023夏实习/刷题/2240. Number of Ways to Buy Pens and Pencils /cmake-build-debug/CMakeFiles/2240__Number_of_Ways_to_Buy_Pens_and_Pencils_.dir
+/Users/cairunqing/Practice/2023夏实习/刷题/2240. Number of Ways to Buy Pens and Pencils /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cairunqing/Practice/2023夏实习/刷题/2240. Number of Ways to Buy Pens and Pencils /cmake-build-debug/CMakeFiles/rebuild_cache.dir

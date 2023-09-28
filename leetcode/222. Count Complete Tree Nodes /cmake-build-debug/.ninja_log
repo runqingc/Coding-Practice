@@ -1,0 +1,17 @@
+# ninja log v5
+0	701	1694566560587889524	CMakeFiles/222__Count_Complete_Tree_Nodes_.dir/main.cpp.o	9a24ca0580dc4c31
+703	844	1694566560735344077	222__Count_Complete_Tree_Nodes_	1b03b9a013804397
+2	574	1694566665529080161	CMakeFiles/222__Count_Complete_Tree_Nodes_.dir/main.cpp.o	9a24ca0580dc4c31
+574	642	1694566665601552200	222__Count_Complete_Tree_Nodes_	1b03b9a013804397
+2	600	1694567896916075374	CMakeFiles/222__Count_Complete_Tree_Nodes_.dir/main.cpp.o	9a24ca0580dc4c31
+600	669	1694567896988701967	222__Count_Complete_Tree_Nodes_	1b03b9a013804397
+3	617	1694568584402703946	CMakeFiles/222__Count_Complete_Tree_Nodes_.dir/main.cpp.o	9a24ca0580dc4c31
+618	687	1694568584476088760	222__Count_Complete_Tree_Nodes_	1b03b9a013804397
+2	574	1694568638804731455	CMakeFiles/222__Count_Complete_Tree_Nodes_.dir/main.cpp.o	9a24ca0580dc4c31
+574	640	1694568638874976273	222__Count_Complete_Tree_Nodes_	1b03b9a013804397
+3	720	1694568673355964161	CMakeFiles/222__Count_Complete_Tree_Nodes_.dir/main.cpp.o	9a24ca0580dc4c31
+720	790	1694568673430090728	222__Count_Complete_Tree_Nodes_	1b03b9a013804397
+2	583	1694568816792403992	CMakeFiles/222__Count_Complete_Tree_Nodes_.dir/main.cpp.o	9a24ca0580dc4c31
+584	650	1694568816863675245	222__Count_Complete_Tree_Nodes_	1b03b9a013804397
+3	414	1694568824719066059	CMakeFiles/222__Count_Complete_Tree_Nodes_.dir/main.cpp.o	9a24ca0580dc4c31
+414	478	1694568824786016149	222__Count_Complete_Tree_Nodes_	1b03b9a013804397
