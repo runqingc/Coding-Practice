@@ -16,7 +16,6 @@ int characterReplacement(string s, int k) {
     int max=0;
     auto i = s.begin();
     auto j = s.begin();
-
     for( ; i!=s.end(); ){
         if(sum-(*max_element(count.begin(), count.end()))<=k){
             // if legal, move j right
