@@ -15,7 +15,6 @@ vector<int> dailyTemperatures(vector<int>& temperatures) {
             }
             q.push_back(i);
         }
-
     }
     return ans;
 

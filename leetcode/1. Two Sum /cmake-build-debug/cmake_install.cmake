@@ -1,4 +1,4 @@
-# Install script for directory: /Users/cairunqing/Practice/2023夏实习/刷题/1. Two Sum 
+# Install script for directory: /Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/1. Two Sum 
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/cairunqing/Practice/2023夏实习/刷题/1. Two Sum /cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/1. Two Sum /cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
