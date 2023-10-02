@@ -3,15 +3,15 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader">{
-  &quot;useNewFormat&quot;: true
-}</component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
     <generated>
-      <config projectName="1__Two_Sum_" targetName="1__Two_Sum_" />
+      <config projectName="503__Next_Greater_Element_II_" targetName="503__Next_Greater_Element_II_" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -20,7 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5bf60f9c-063e-4c79-b91a-f30370da6460" name="Changes" comment="" />
+    <list default="true" id="dfdf26b3-8a36-4b8d-9e21-e1d1649d6321" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../739. Daily Temperatures /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../739. Daily Temperatures /main.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,7 +40,7 @@
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="1.3" />
   </component>
-  <component name="ProjectId" id="2V2wyOXBKi2k2nL0B3IDdmoPYWX" />
+  <component name="ProjectId" id="2W4c3XlYK40TeZDOkgKsLCp5N2n" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +52,6 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/1. Two Sum ",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,12 +61,12 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="1__Two_Sum_" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1__Two_Sum_" TARGET_NAME="1__Two_Sum_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1__Two_Sum_" RUN_TARGET_NAME="1__Two_Sum_">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+    <configuration name="503__Next_Greater_Element_II_" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="503__Next_Greater_Element_II_" TARGET_NAME="503__Next_Greater_Element_II_" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="503__Next_Greater_Element_II_" RUN_TARGET_NAME="503__Next_Greater_Element_II_">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -74,13 +75,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5bf60f9c-063e-4c79-b91a-f30370da6460" name="Changes" comment="" />
-      <created>1694047736818</created>
+      <changelist id="dfdf26b3-8a36-4b8d-9e21-e1d1649d6321" name="Changes" comment="" />
+      <created>1695995093724</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1694047736818</updated>
-      <workItem from="1694047738268" duration="1808000" />
-      <workItem from="1696038476303" duration="792000" />
+      <updated>1695995093724</updated>
+      <workItem from="1695995095519" duration="1921000" />
     </task>
     <servers />
   </component>
