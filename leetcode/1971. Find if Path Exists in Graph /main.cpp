@@ -10,7 +10,7 @@ int Find(vector<int>& S, int x){
 void Union(vector<int>& S, int x, int y){
     int root_x = Find(S, x);
     int root_y = Find(S, y);
-    if(y<x){
+    if(S[root_y]<S[root_x]){
         swap(x, y);
     }
     S[root_x] += S[root_y];
