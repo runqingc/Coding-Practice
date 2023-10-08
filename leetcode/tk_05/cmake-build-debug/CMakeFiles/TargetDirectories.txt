@@ -1,0 +1,3 @@
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/tk_05/cmake-build-debug/CMakeFiles/tk_05.dir
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/tk_05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/tk_05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
