@@ -18,7 +18,7 @@ int getMinSum(vector<int>& security_values, string& s){
 
 
 int main() {
-    string s = "afeb";
+    string s = "qaafebdhui";
     vector<int> secure{1, 2, 1, 3, 1, 3, 5, 7, 1, 1, 5, 5, 8, 10, 11, 1, 23, 2, 3, 7, 8, 9, 1, 6, 5, 9};
     cout << getMinSum(secure, s);
     return 0;

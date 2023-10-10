@@ -17,7 +17,7 @@ string replaceWords(vector<string>& dictionary, string& sentence) {
             if(dict.find(word)!=dict.end()){
                 ans+=word;
                 ans+=' ';
-                while(sentence[i]!=' '){
+                while(i<sentence.size() && sentence[i]!=' '){
                     ++i;
                 }
                 word = "";
