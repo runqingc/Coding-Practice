@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(100096__Find_Indices_With_Index_and_Value_Difference_I)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(100096__Find_Indices_With_Index_and_Value_Difference_I main.cpp)
