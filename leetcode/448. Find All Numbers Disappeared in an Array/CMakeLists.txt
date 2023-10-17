@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(448__Find_All_Numbers_Disappeared_in_an_Array)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(448__Find_All_Numbers_Disappeared_in_an_Array main.cpp)
