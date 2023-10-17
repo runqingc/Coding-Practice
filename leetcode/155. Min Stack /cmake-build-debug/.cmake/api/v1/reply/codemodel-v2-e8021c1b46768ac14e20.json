@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "155__Min_Stack_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "155__Min_Stack_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-155__Min_Stack_-Debug-96a5e61968fad05547e9.json",
+					"name" : "155__Min_Stack_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/155. Min Stack /cmake-build-debug",
+		"source" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/155. Min Stack "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
