@@ -19,16 +19,19 @@ std::string generateRandomString(int length) {
 }
 
 int main() {
-    int numStrings = 5;  // 假设生成5个字符串
-    std::vector<std::string> strings;
+//    int numStrings = 5;  // 假设生成5个字符串
+//    std::vector<std::string> strings;
+//
+//    for (int i = 0; i < numStrings; ++i) {
+//        strings.push_back(generateRandomString(10));
+//    }
+//
+//    for (const auto& str : strings) {
+//        std::cout << str << std::endl;
+//    }
+    const char *lines2[2] = {"ls -la ~/mpcs51082-aut23 & cd .. ",
+                             "echo -e \"Hello\";ls;ls;cat file.txt > out.txt &"};
 
-    for (int i = 0; i < numStrings; ++i) {
-        strings.push_back(generateRandomString(10));
-    }
-
-    for (const auto& str : strings) {
-        std::cout << str << std::endl;
-    }
 
     return 0;
 }
