@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "203__Remove_Linked_List_Elements_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "203__Remove_Linked_List_Elements_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-203__Remove_Linked_List_Elements_-Debug-d386a7fd2692d00088d6.json",
+					"name" : "203__Remove_Linked_List_Elements_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/203. Remove Linked List Elements /cmake-build-debug",
+		"source" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/203. Remove Linked List Elements "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
