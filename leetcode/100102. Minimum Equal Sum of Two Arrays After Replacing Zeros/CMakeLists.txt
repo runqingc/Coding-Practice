@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(100102__Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(100102__Minimum_Equal_Sum_of_Two_Arrays_After_Replacing_Zeros main.cpp)
