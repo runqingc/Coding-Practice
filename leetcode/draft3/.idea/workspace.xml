@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader"><![CDATA[{
+  "useNewFormat": true
+}]]></component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="draft3" targetName="draft3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f24e1eb-ab36-407f-95ca-518a70e4c402" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../853. Car Fleet /CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../853. Car Fleet /main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/_22. Generate Parentheses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_567. Permutation in String/_567. Permutation in String.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100102. Minimum Equal Sum of Two Arrays After Replacing Zeros/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../100102. Minimum Equal Sum of Two Arrays After Replacing Zeros/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable /cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable /cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../313. Super Ugly Number /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../313. Super Ugly Number /main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../697. Degree of an Array /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../697. Degree of an Array /main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_oa1/.idea/code_oa1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../code_oa1/.idea/code_oa1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_oa1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../code_oa1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codesignal_house/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../codesignal_house/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tk_03/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../tk_03/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tk_05/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../tk_05/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/cmake-build-debug/untitled2" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/cmake-build-debug/untitled2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled2/main.cpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.3" />
+  </component>
+  <component name="ProjectId" id="2Xjkcw5G31nfTLTYj2TBP2TRplI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="draft3" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="draft3" TARGET_NAME="draft3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="draft3" RUN_TARGET_NAME="draft3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f24e1eb-ab36-407f-95ca-518a70e4c402" name="Changes" comment="" />
+      <created>1699149960231</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699149960231</updated>
+      <workItem from="1699149962224" duration="376000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+</project>

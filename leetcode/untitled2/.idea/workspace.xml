@@ -21,11 +21,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e121e95-237b-4486-855d-2164a87f4d56" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../461. Hamming Distance /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../461. Hamming Distance /main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../504. Base 7 /.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../504. Base 7 /.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../504. Base 7 /cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../504. Base 7 /cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../853. Car Fleet /CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../853. Car Fleet /main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/_22. Generate Parentheses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../_567. Permutation in String/_567. Permutation in String.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../100102. Minimum Equal Sum of Two Arrays After Replacing Zeros/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../100102. Minimum Equal Sum of Two Arrays After Replacing Zeros/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable /cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable /cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../313. Super Ugly Number /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../313. Super Ugly Number /main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../697. Degree of an Array /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../697. Degree of an Array /main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_oa1/.idea/code_oa1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../code_oa1/.idea/code_oa1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../code_oa1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../code_oa1/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../codesignal_house/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../codesignal_house/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tk_03/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../tk_03/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tk_05/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../tk_05/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,11 +79,6 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="untitled2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled2" TARGET_NAME="untitled2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled2" RUN_TARGET_NAME="untitled2">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -86,6 +95,7 @@
       <updated>1696641839804</updated>
       <workItem from="1696641841696" duration="499000" />
       <workItem from="1697896462811" duration="669000" />
+      <workItem from="1699145902533" duration="1300000" />
     </task>
     <servers />
   </component>

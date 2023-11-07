@@ -1,0 +1,3 @@
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/313. Super Ugly Number /cmake-build-debug/CMakeFiles/313__Super_Ugly_Number_.dir
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/313. Super Ugly Number /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/313. Super Ugly Number /cmake-build-debug/CMakeFiles/rebuild_cache.dir

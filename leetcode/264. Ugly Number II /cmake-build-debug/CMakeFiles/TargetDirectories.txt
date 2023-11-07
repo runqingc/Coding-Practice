@@ -1,0 +1,3 @@
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/264. Ugly Number II /cmake-build-debug/CMakeFiles/264__Ugly_Number_II_.dir
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/264. Ugly Number II /cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cairunqing/Practice/2023夏实习/Coding-Practice/leetcode/264. Ugly Number II /cmake-build-debug/CMakeFiles/rebuild_cache.dir
