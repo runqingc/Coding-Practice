@@ -51,8 +51,8 @@ double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
 
 
 int main() {
-    vector<int> nums1{1,2};
-    vector<int> nums2{3,4};
+    vector<int> nums1{1,2,3,4,5};
+    vector<int> nums2{0,3,4,7,9,10};
     std::cout << findKthLargest(nums1, nums2, 2) << std::endl;
     cout << findMedianSortedArrays(nums1, nums2)<<endl;
     return 0;

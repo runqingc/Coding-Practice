@@ -21,25 +21,50 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e121e95-237b-4486-855d-2164a87f4d56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../853. Car Fleet /CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../853. Car Fleet /main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_22. Generate Parentheses/_22. Generate Parentheses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../_567. Permutation in String/_567. Permutation in String.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../100102. Minimum Equal Sum of Two Arrays After Replacing Zeros/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../100102. Minimum Equal Sum of Two Arrays After Replacing Zeros/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable /cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../304. Range Sum Query 2D - Immutable /cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../313. Super Ugly Number /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../313. Super Ugly Number /main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../697. Degree of an Array /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../697. Degree of an Array /main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/../LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code_oa1/.idea/code_oa1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../code_oa1/.idea/code_oa1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../code_oa1/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../code_oa1/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../codesignal_house/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../codesignal_house/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tk_03/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../tk_03/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../tk_05/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../tk_05/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/.idea/pure_oa2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b61208a4d59609820352.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9bfabf6d249d2ab988ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-09e9871f2d6816478845.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-08T00-43-02-0844.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/reply/target-pure_oa2-Debug-87ef216f78bdae0949aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-230eadfadbd316ec1251.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pure_oa2/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../draft3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../draft3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../draft3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../draft3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/untitled2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/untitled2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,6 +121,8 @@
       <workItem from="1696641841696" duration="499000" />
       <workItem from="1697896462811" duration="669000" />
       <workItem from="1699145902533" duration="1300000" />
+      <workItem from="1699477547538" duration="926000" />
+      <workItem from="1699479312974" duration="652000" />
     </task>
     <servers />
   </component>

@@ -390,6 +390,23 @@ dna							      |	peach
 
 
 
+#### copy file
+
+```sh
+cairunqing@cairunqingdeMacBook-Pro MSH % scp HW6* runqingc@linux5.cs.uchicago.edu:/home/runqingc/Intro_to_Unix/msh/msh-runqingc/saqs
+```
+
+
+
+```sh
+cairunqing@cairunqingdeMacBook-Pro Downloads % scp -r hw6_tests runqingc@linux5.cs.uchicago.edu:/home/runqingc/Intro_to_Unix/msh/msh-runqingc/tests
+```
+
+
+
+
+
+
 ## 6.Permission
 
 ```sh

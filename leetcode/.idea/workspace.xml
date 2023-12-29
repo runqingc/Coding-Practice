@@ -7,9 +7,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edb62986-5c08-4ca7-a028-821041b870d2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/424. Longest Repeating Character Replacement /.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/424. Longest Repeating Character Replacement /.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/424. Longest Repeating Character Replacement /cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/424. Longest Repeating Character Replacement /cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/424. Longest Repeating Character Replacement /main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/424. Longest Repeating Character Replacement /main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/146. LRU Cache /.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/146. LRU Cache /.idea/146. LRU Cache .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/146. LRU Cache /.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/146. LRU Cache /.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/146. LRU Cache /.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/146. LRU Cache /CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/146. LRU Cache /main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/981. Time Based Key-Value Store /.idea/981. Time Based Key-Value Store .iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_138. Copy List with Random Pointer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_138. Copy List with Random Pointer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_138. Copy List with Random Pointer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_138. Copy List with Random Pointer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_138. Copy List with Random Pointer/_138. Copy List with Random Pointer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_138. Copy List with Random Pointer/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_138. Copy List with Random Pointer/src/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_138. Copy List with Random Pointer/src/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/.idea/pure_oa2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/reply/cache-v2-b61208a4d59609820352.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-9bfabf6d249d2ab988ff.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-09e9871f2d6816478845.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/reply/directory-.-Debug-f5ebdc15457944623624.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/reply/index-2023-11-08T00-43-02-0844.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/reply/target-pure_oa2-Debug-87ef216f78bdae0949aa.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/.cmake/api/v1/reply/toolchains-v1-230eadfadbd316ec1251.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/3.25.2/CompilerIdCXX/CMakeCXXCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/CMakeError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/CMakeFiles/rules.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pure_oa2/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UNIX Bootcamp.md" beforeDir="false" afterPath="$PROJECT_DIR$/UNIX Bootcamp.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draft3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/draft3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/draft3/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/draft3/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2/cmake-build-debug/CMakeFiles/untitled2.dir/main.cpp.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2/cmake-build-debug/untitled2" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2/cmake-build-debug/untitled2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/untitled2/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +78,9 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -27,16 +89,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,6 +108,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695991459814</updated>
       <workItem from="1695991464627" duration="2000" />
+      <workItem from="1701525090056" duration="3000" />
     </task>
     <servers />
   </component>

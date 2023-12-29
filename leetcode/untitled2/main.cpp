@@ -1,4 +1,16 @@
+#include <iostream>
+#include <set>
+#include <algorithm>
 
+using namespace std;
+
+int main(){
+    set<int> s = {10, 20, 40, 30, 50, 60};
+    cout << *s.lower_bound(5)<< endl;
+    cout << *s.upper_bound(35)<< endl;
+
+    return 0;
+}
 
 //#include <iostream>
 //#include <string>

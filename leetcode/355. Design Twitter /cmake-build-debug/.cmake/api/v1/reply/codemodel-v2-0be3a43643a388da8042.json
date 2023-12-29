@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "355__Design_Twitter_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "355__Design_Twitter_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-355__Design_Twitter_-Debug-7818d7bf375e2b5c1282.json",
+					"name" : "355__Design_Twitter_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/355. Design Twitter /cmake-build-debug",
+		"source" : "/Users/cairunqing/Practice/2023\u590f\u5b9e\u4e60/Coding-Practice/leetcode/355. Design Twitter "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

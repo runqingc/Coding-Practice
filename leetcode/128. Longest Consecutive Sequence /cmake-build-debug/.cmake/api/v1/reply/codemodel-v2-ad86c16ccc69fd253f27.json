@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "128__Longest_Consecutive_Sequence_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "128__Longest_Consecutive_Sequence_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-128__Longest_Consecutive_Sequence_-Debug-af9cdb4b53e49fd4f645.json",
+					"name" : "128__Longest_Consecutive_Sequence_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/cairunqing/Practice/2023Summer_Intern/Coding-Practice/leetcode/128. Longest Consecutive Sequence /cmake-build-debug",
+		"source" : "/Users/cairunqing/Practice/2023Summer_Intern/Coding-Practice/leetcode/128. Longest Consecutive Sequence "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
