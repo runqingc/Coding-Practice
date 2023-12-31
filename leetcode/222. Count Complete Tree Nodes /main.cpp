@@ -2,18 +2,18 @@
 #include <cmath>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 int cnt = 0;
 
-int leftPath(TreeNode* root) {
+int leftPath(treeNode* root) {
     if (!root) return 0;
     int sum = 0;
     while (root) {
@@ -22,7 +22,7 @@ int leftPath(TreeNode* root) {
     }
     return sum;
 }
-int rightPath(TreeNode* root){
+int rightPath(treeNode* root){
     if(!root) return 0;
     int sum = 0;
     while(root){
@@ -34,7 +34,7 @@ int rightPath(TreeNode* root){
 
 
 
-void count(TreeNode* root) {
+void count(treeNode* root) {
     if (!root) return;
     int l = leftPath(root);
     int r = rightPath(root);
@@ -47,18 +47,18 @@ void count(TreeNode* root) {
     if(root->right) count(root->right);
 }
 
-int countNodes(TreeNode* root) {
+int countNodes(treeNode* root) {
     count(root);
     return cnt;
 }
 
 int main() {
-    auto t1 = new TreeNode(1);
-    auto t2 = new TreeNode(2);
-    auto t3 = new TreeNode(3);
-    auto t4 = new TreeNode(4);
-    auto t5 = new TreeNode(5);
-    auto t6 = new TreeNode(6);
+    auto t1 = new treeNode(1);
+    auto t2 = new treeNode(2);
+    auto t3 = new treeNode(3);
+    auto t4 = new treeNode(4);
+    auto t5 = new treeNode(5);
+    auto t6 = new treeNode(6);
     t1->left = t2;
     t1->right = t3;
     t2->left = t4;

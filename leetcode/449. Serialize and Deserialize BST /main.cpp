@@ -2,15 +2,15 @@
 #include <string>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
      int val;
-     TreeNode *left;
-     TreeNode *right;
-     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+     treeNode *left;
+     treeNode *right;
+     treeNode(int x) : val(x), left(NULL), right(NULL) {}
 };
 
 
-void Preorder(TreeNode* root, string& s){
+void Preorder(treeNode* root, string& s){
     if(root){
         s+= to_string(root->val);
         s+='#';
@@ -23,18 +23,18 @@ void Preorder(TreeNode* root, string& s){
     }
 }
 
-string serialize(TreeNode* root) {
+string serialize(treeNode* root) {
     string s;
     Preorder(root, s);
     return s;
 }
 
-TreeNode* decode(vector<int>::iterator l, vector<int>::iterator r){
+treeNode* decode(vector<int>::iterator l, vector<int>::iterator r){
 
-    TreeNode* root = nullptr;
+    treeNode* root = nullptr;
     if(l>=r) return root;
     // find root
-    root = new TreeNode(*l);
+    root = new treeNode(*l);
     auto start = ++l, end = r;
     // find left subtree
     while(l<end && *l<root->val){
@@ -47,7 +47,7 @@ TreeNode* decode(vector<int>::iterator l, vector<int>::iterator r){
     return root;
 }
 
-TreeNode* deserialize(string data) {
+treeNode* deserialize(string data) {
     // convert the data to vector<int>
     vector<int> intData;
     string numString;
@@ -63,18 +63,18 @@ TreeNode* deserialize(string data) {
 }
 
 int main() {
-    TreeNode* t0 = nullptr;
-    TreeNode t1(30);
-    TreeNode t2(20);
-    TreeNode t3(40);
-    TreeNode t4(25);
-    TreeNode t5(35);
+    treeNode* t0 = nullptr;
+    treeNode t1(30);
+    treeNode t2(20);
+    treeNode t3(40);
+    treeNode t4(25);
+    treeNode t5(35);
     t1.left = &t2;t2.right = &t4;
     t1.right = &t3;
     t3.left = &t5;
     string s = serialize(&t1);
     cout << s;
-    TreeNode* root = deserialize(s);
+    treeNode* root = deserialize(s);
 
     return 0;
 }

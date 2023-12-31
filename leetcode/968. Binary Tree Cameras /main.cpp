@@ -5,25 +5,25 @@
 using namespace std;
 
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    explicit TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    explicit treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 class Solution {
 public:
 
-    TreeNode* origin;
+    treeNode* origin;
     int cnt;
 
     // 0 not covered, waiting to be covered by parent node
     // 1 covered
     // 2 has a camera on it
-    int post(TreeNode* root){
+    int post(treeNode* root){
         if(root){
             if(!root->left && !root->right){
                 return 0;
@@ -49,7 +49,7 @@ public:
     }
 
 
-    int minCameraCover(TreeNode* root) {
+    int minCameraCover(treeNode* root) {
         if(!root->left && !root->right) return 1;
         cnt = 0;
         origin = root;
@@ -61,12 +61,12 @@ public:
 
 int main() {
     Solution s1;
-    auto t1 = new TreeNode(1);
-    auto t2 = new TreeNode(2);
-    auto t3 = new TreeNode(3);
-    auto t4 = new TreeNode(4);
-    auto t5 = new TreeNode(5);
-    auto t6 = new TreeNode(6);
+    auto t1 = new treeNode(1);
+    auto t2 = new treeNode(2);
+    auto t3 = new treeNode(3);
+    auto t4 = new treeNode(4);
+    auto t5 = new treeNode(5);
+    auto t6 = new treeNode(6);
     t1->left = t2;
     t2->left = t3;
     t2->right = t4;

@@ -2,6 +2,10 @@
     "files.associations": {
         "vector": "cpp",
         "iostream": "cpp",
-        "queue": "cpp"
+        "queue": "cpp",
+        "__bit_reference": "cpp",
+        "array": "cpp",
+        "ios": "cpp",
+        "ostream": "cpp"
     }
 }

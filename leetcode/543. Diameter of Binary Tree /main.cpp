@@ -2,18 +2,18 @@
 #include <algorithm>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 int max_diameter = 0;
 
-void post_order(TreeNode* root){
+void post_order(treeNode* root){
 
     if(root){
         if(!root->left && !root->right){
@@ -36,18 +36,18 @@ void post_order(TreeNode* root){
 }
 
 
-int diameterOfBinaryTree(TreeNode* root) {
+int diameterOfBinaryTree(treeNode* root) {
     post_order(root);
     return max_diameter;
 }
 
 
 int main() {
-    auto t3 = TreeNode(3);
-    auto t4 = TreeNode(4);
-    auto t5 = TreeNode(5);
-    auto t2 = TreeNode(2, &t4, &t5);
-    auto t1 = TreeNode(1, &t2, &t3);
+    auto t3 = treeNode(3);
+    auto t4 = treeNode(4);
+    auto t5 = treeNode(5);
+    auto t2 = treeNode(2, &t4, &t5);
+    auto t1 = treeNode(1, &t2, &t3);
     cout << diameterOfBinaryTree(&t1);
 
     return 0;

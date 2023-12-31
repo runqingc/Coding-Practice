@@ -1,16 +1,16 @@
 #include <iostream>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    explicit TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    explicit treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
-TreeNode* deleteNode(TreeNode* root, int x){
+treeNode* deleteNode(treeNode* root, int x){
     if(!root) return nullptr;
     else if(x>root->val){
         root->right = deleteNode(root->right, x);
@@ -19,17 +19,17 @@ TreeNode* deleteNode(TreeNode* root, int x){
         root->left = deleteNode(root->left, x);
     }
     else if(!root->left){
-        TreeNode* tmp = root->right;
+        treeNode* tmp = root->right;
         delete root;
         return tmp;
     }
     else if(!root->right){
-        TreeNode* tmp = root->left;
+        treeNode* tmp = root->left;
         delete root;
         return tmp;
     }else{
         // find max from left
-        TreeNode* tmp = root->left;
+        treeNode* tmp = root->left;
         while(tmp->right){
             tmp = tmp->right;
         }
@@ -44,12 +44,12 @@ TreeNode* deleteNode(TreeNode* root, int x){
 
 
 int main() {
-    auto t2 = new TreeNode(2);
-    auto t4 = new TreeNode(4);
-    auto t7 = new TreeNode(7);
-    auto t3 = new TreeNode(3, t2, t4);
-    auto t6 = new TreeNode(6, nullptr, t7);
-    auto t5 = new TreeNode(5, t3, t6);
+    auto t2 = new treeNode(2);
+    auto t4 = new treeNode(4);
+    auto t7 = new treeNode(7);
+    auto t3 = new treeNode(3, t2, t4);
+    auto t6 = new treeNode(6, nullptr, t7);
+    auto t5 = new treeNode(5, t3, t6);
     t5 = deleteNode(t5, 3);
 
     return 0;

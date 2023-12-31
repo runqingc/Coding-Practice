@@ -3,17 +3,17 @@
 #include<vector>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
     };
 
 
-void dfs(TreeNode* root, string ans, vector<string>& ret){
+void dfs(treeNode* root, string ans, vector<string>& ret){
     ans += "->" ;
     ans += to_string(root->val);
     if(root->left){
@@ -27,7 +27,7 @@ void dfs(TreeNode* root, string ans, vector<string>& ret){
     }
 }
 
-vector<string> binaryTreePaths(TreeNode* root) {
+vector<string> binaryTreePaths(treeNode* root) {
     string ans = to_string(root->val);
     vector<string> ret;
     if(root->left){

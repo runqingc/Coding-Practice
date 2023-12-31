@@ -1,13 +1,13 @@
 #include <iostream>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    explicit TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    explicit treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 int last = INT32_MIN;
@@ -15,7 +15,7 @@ int numSame = 0;
 int maxSame = 0;
 vector<int> mode;
 
-void inOrder(TreeNode* root){
+void inOrder(treeNode* root){
     if(root){
         if(root->left){
             inOrder(root->left);
@@ -43,7 +43,7 @@ void inOrder(TreeNode* root){
 
 }
 
-vector<int> findMode(TreeNode* root) {
+vector<int> findMode(treeNode* root) {
     inOrder(root);
     return mode;
 }

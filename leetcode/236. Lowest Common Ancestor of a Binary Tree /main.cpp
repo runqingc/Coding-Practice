@@ -1,20 +1,20 @@
 #include <iostream>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    explicit TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    explicit treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 
 bool foundAncestor = false;
 
-TreeNode* ancestor = nullptr;
-bool post(TreeNode* root, TreeNode* p, TreeNode* q, bool found){
+treeNode* ancestor = nullptr;
+bool post(treeNode* root, treeNode* p, treeNode* q, bool found){
     bool l = false, r = false, m = false;
     if(root && !foundAncestor){
         if(root->left){
@@ -34,22 +34,22 @@ bool post(TreeNode* root, TreeNode* p, TreeNode* q, bool found){
 }
 
 
-TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+treeNode* lowestCommonAncestor(treeNode* root, treeNode* p, treeNode* q) {
     post(root, p, q, false);
     return ancestor;
 }
 
 
 int main() {
-    auto t0 = new TreeNode(0);
-    auto t1 = new TreeNode(1);
-    auto t2 = new TreeNode(2);
-    auto t3 = new TreeNode(3);
-    auto t4 = new TreeNode(4);
-    auto t5 = new TreeNode(5);
-    auto t6 = new TreeNode(6);
-    auto t7 = new TreeNode(7);
-    auto t8 = new TreeNode(8);
+    auto t0 = new treeNode(0);
+    auto t1 = new treeNode(1);
+    auto t2 = new treeNode(2);
+    auto t3 = new treeNode(3);
+    auto t4 = new treeNode(4);
+    auto t5 = new treeNode(5);
+    auto t6 = new treeNode(6);
+    auto t7 = new treeNode(7);
+    auto t8 = new treeNode(8);
     t3->left = t5;
     t3->right = t1;
     t5->left = t6;

@@ -2,13 +2,13 @@
 #include <algorithm>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
         int val;
-        TreeNode *left;
-        TreeNode *right;
-        TreeNode() : val(0), left(nullptr), right(nullptr) {}
-        TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-        TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+        treeNode *left;
+        treeNode *right;
+        treeNode() : val(0), left(nullptr), right(nullptr) {}
+        treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+        treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 
@@ -17,7 +17,7 @@ public:
 
     int max_route = INT32_MIN;
 
-    int pathSum(TreeNode* root) {
+    int pathSum(treeNode* root) {
 
         int left_maxsum=0, right_max_sum=0;
         if(root->left) left_maxsum = pathSum(root->left);
@@ -33,7 +33,7 @@ public:
         return root->val;
     }
 
-    int maxPathSum(TreeNode* root) {
+    int maxPathSum(treeNode* root) {
         max_route = root->val;
         pathSum(root);
         return max_route;

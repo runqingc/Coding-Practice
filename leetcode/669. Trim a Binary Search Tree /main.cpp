@@ -1,18 +1,18 @@
 #include <iostream>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    explicit TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    explicit treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 
-TreeNode* origin;
-TreeNode* trimBST(TreeNode* root, int low, int high) {
+treeNode* origin;
+treeNode* trimBST(treeNode* root, int low, int high) {
     if(root && root->val>high){
         auto tmp = root;
         root = root->left;
@@ -44,8 +44,8 @@ int main() {
 //    auto t4 = new TreeNode(4);
 //    auto t3 = new TreeNode(3, t0, t4);
 //    t3 = trimBST(t3,1,3);
-    auto t2 = new TreeNode(2);
-    auto t1 = new TreeNode(1, nullptr, t2);
+    auto t2 = new treeNode(2);
+    auto t1 = new treeNode(1, nullptr, t2);
     t1 = trimBST(t1, 2,4);
     return 0;
 }

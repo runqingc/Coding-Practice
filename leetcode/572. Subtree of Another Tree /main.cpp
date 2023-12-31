@@ -1,12 +1,12 @@
 #include <iostream>
 
-struct TreeNode {
+struct treeNode {
      int val;
-     TreeNode *left;
-     TreeNode *right;
-     TreeNode() : val(0), left(nullptr), right(nullptr) {}
-     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+     treeNode *left;
+     treeNode *right;
+     treeNode() : val(0), left(nullptr), right(nullptr) {}
+     treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+     treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 
@@ -17,7 +17,7 @@ public:
     bool isSame = true;
     bool isSubTree = false;
 
-    void isSameTree(TreeNode* p, TreeNode* q){
+    void isSameTree(treeNode* p, treeNode* q){
         if(isSame){
             if(p && !q || !p && q){
                 isSame = false;
@@ -32,13 +32,13 @@ public:
         }
     }
 
-    bool checkIsSameTree(TreeNode* p, TreeNode* q){
+    bool checkIsSameTree(treeNode* p, treeNode* q){
         isSame = true;
         isSameTree(p, q);
         return isSame;
     }
 
-    void preOrder(TreeNode* p, TreeNode* subRoot){
+    void preOrder(treeNode* p, treeNode* subRoot){
         if(p){
             if(checkIsSameTree(p, subRoot)){
                 isSubTree = true;
@@ -53,7 +53,7 @@ public:
         }
     }
 
-    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+    bool isSubtree(treeNode* root, treeNode* subRoot) {
         preOrder(root, subRoot);
         return isSubTree;
     }

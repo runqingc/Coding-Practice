@@ -2,13 +2,13 @@
 #include <cmath>
 using namespace std;
 
-struct TreeNode {
+struct treeNode {
     int val;
-    TreeNode *left;
-    TreeNode *right;
-    TreeNode() : val(0), left(nullptr), right(nullptr) {}
-    explicit TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
-    TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+    treeNode *left;
+    treeNode *right;
+    treeNode() : val(0), left(nullptr), right(nullptr) {}
+    explicit treeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+    treeNode(int x, treeNode *left, treeNode *right) : val(x), left(left), right(right) {}
 };
 
 //void height(TreeNode* root, int depth, int& maxDepth){
@@ -24,7 +24,7 @@ struct TreeNode {
 
 bool flag = true;
 
-int post(TreeNode* root){
+int post(treeNode* root){
     if(!flag) return -1;
     if(!root) return 0;
     int l=0, r=0;
@@ -39,7 +39,7 @@ int post(TreeNode* root){
 }
 
 
-bool isBalanced(TreeNode* root) {
+bool isBalanced(treeNode* root) {
     if(!root) return true;
     post(root);
     return flag;
