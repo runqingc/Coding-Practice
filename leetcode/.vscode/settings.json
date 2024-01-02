@@ -6,6 +6,9 @@
         "__bit_reference": "cpp",
         "array": "cpp",
         "ios": "cpp",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "atomic": "cpp",
+        "condition_variable": "cpp",
+        "iosfwd": "cpp"
     }
 }
