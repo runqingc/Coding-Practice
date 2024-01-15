@@ -9,6 +9,13 @@
         "ostream": "cpp",
         "atomic": "cpp",
         "condition_variable": "cpp",
-        "iosfwd": "cpp"
-    }
+        "iosfwd": "cpp",
+        "deque": "cpp",
+        "__split_buffer": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "__hash_table": "cpp"
+    },
+    "cmake.sourceDirectory": "/Users/cairunqing/Practice/2023Summer_Intern/Coding-Practice/leetcode/1035. Uncrossed Lines "
 }

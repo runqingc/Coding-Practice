@@ -66,10 +66,11 @@ int median_of_five(vector<int>& nums){
 
 int main(){
     
-    vector<int> nums = {3,2,3,1,2,4,5,5,6};
-    cout << findKthLargest(nums, 4);
+    // vector<int> nums = {3,2,3,1,2,4,5,5,6};
+    // cout << findKthLargest(nums, 4);
 
-    
+    vector<int> a(5);
+    cout << a.size();
 
 
     return 0;
